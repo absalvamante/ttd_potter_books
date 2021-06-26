@@ -1,0 +1,15 @@
+{
+  "name": "groupxs_ttd_exam_book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.5"
+  }
+}
